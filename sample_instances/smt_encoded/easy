@@ -1,0 +1,120 @@
+42 77
+A c
+B c
+X4E c
+X7E c
+Z c
+_0E c
+_0S c
+_10E c
+_10S c
+_11E c
+_11S c
+_12E c
+_12S c
+_13E c
+_13S c
+_14E c
+_14S c
+_15E c
+_15S c
+_16E c
+_16S c
+_1E c
+_1S c
+_2E_AND_SPLIT c
+_2S_AND_SPLIT c
+_3E_AND_JOIN c
+_3S_AND_JOIN c
+_40 c
+_41 c
+_4S c
+_5E c
+_5S c
+_6E c
+_6S c
+_70 c
+_71 c
+_7S c
+_8E c
+_8S c
+_9E c
+_9S c
+_ZERO_ c
+1 f _ZERO_ A 0 1
+1 f _ZERO_ B 0 1
+1 f _3E_AND_JOIN _1S 1 100
+2 f _ZERO_ A 0 0 _6E _6S -23 -10
+2 f _ZERO_ A 0 0 _6E _7S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _71 _10S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _10S X7E -inf 0
+1 f _2E_AND_SPLIT _14S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9E _8S 1 100
+2 f _ZERO_ A 1 1 _4S _41 1 5
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _11S _11E 3 23
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _11S X7E -inf 0
+2 f _ZERO_ A 1 1 _13E _5S 1 100
+2 f _ZERO_ A 0 0 _4S _40 1 5
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9S X4E -inf 0
+2 f _ZERO_ A 0 0 _8E _5S 1 100
+1 f _0E _2S_AND_SPLIT 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _11E X7E -inf 0
+1 f _4S X4E 1 5
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9E X4E -inf 0
+1 f _16S _16E 8 28
+1 f _14S _14E 3 21
+1 f _15S _15E 13 26
+2 f _ZERO_ A 1 1 X4E _41 1 5
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9S _9E 8 27
+2 f _ZERO_ A 1 1 _12S _12E 5 27
+2 f _ZERO_ A 0 0 X4E _40 1 5
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _6E _11S 23 96
+2 f _ZERO_ A 1 1 _13S X4E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 X7E _71 1 5
+2 f _ZERO_ A 0 0 _8S _8E 1 10
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 X7E _70 1 5
+1 f _0S _0E 1 10
+2 f _ZERO_ A 0 0 _8S X4E -inf 0
+2 f _ZERO_ A 1 1 _13E X4E -inf 0
+2 f _ZERO_ A 0 0 _8E X4E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _7S _71 1 5
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _7S _70 1 5
+2 f _ZERO_ A 0 0 _7S X7E 1 5
+1 f _5E _3S_AND_JOIN 1 100
+1 f _1S _1E 1 10
+2 f _ZERO_ A 0 0 _6S _15E -16 -4
+2 f _ZERO_ A 1 1 _13S _13E 4 23
+1 f _5S _5E 1 10
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9S _15S -61 -25
+1 f _0E _1S 140 814
+2 f _ZERO_ A 1 1 _12E _13S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _10E _11S 1 100
+2 f _ZERO_ A 1 1 _12S X4E -inf 0
+2 f _ZERO_ A 0 0 _7S X4E -inf 0
+1 f Z _0S 1 100
+2 f _ZERO_ A 1 1 _12E X4E -inf 0
+2 f _ZERO_ A 1 1 _41 _12S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _6E _10E 14 33
+1 f _14E _15S 1 100
+1 f _2S_AND_SPLIT _2E_AND_SPLIT 1 10
+2 f _ZERO_ A 0 0 X7E X4E -inf 0
+1 f _3S_AND_JOIN _3E_AND_JOIN 1 10
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _10S _10E 2 14
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _70 X4E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _71 X4E -inf 0
+1 f _16E _3S_AND_JOIN 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _11S X4E -inf 0
+2 f _ZERO_ A 0 0 _6S X4E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9S X7E -inf 0
+2 f _ZERO_ A 0 0 _40 _6S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _11E X4E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _70 _9S 1 100
+2 f _ZERO_ A 0 0 _6E X4E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 0 0 _9E X7E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _10E X7E -inf 0
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _11E _8S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _10S X4E -inf 0
+1 f _2E_AND_SPLIT _4S 1 100
+2 f _ZERO_ A 1 1 _13E _14S -66 -23
+1 f _15E _16S 1 100
+3 f _ZERO_ A 0 0 _ZERO_ B 1 1 _10E X4E -inf 0
